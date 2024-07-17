@@ -1,4 +1,11 @@
 # Mathis
+
+|     main.py                                    |     all developed classes used in notebooks                         |
+|------------------------------------------------|---------------------------------------------------------------------|
+
+|     utils.py                                   |     other tools                                                     |
+|------------------------------------------------|---------------------------------------------------------------------|
+
 |     Notebook                                   |     Use                                                             |
 |------------------------------------------------|---------------------------------------------------------------------|
 |     cv_timm                                    |     Cross validation with Timm models                               |
@@ -12,3 +19,4 @@
 |     hybrid_approach_a                          |     Hybrid approach 1                                               |
 |     hybrid_approach_b hybrid_approach_c        |     Hybrid approaches 2 and 3                                       |
  
+
