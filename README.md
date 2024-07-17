@@ -19,4 +19,4 @@
 |     hybrid_approach_a                          |     Hybrid approach 1                                               |
 |     hybrid_approach_b hybrid_approach_c        |     Hybrid approaches 2 and 3                                       |
  
-
+NB: requires Croma code and weights available here: https://github.com/antofuller/CROMA (UCroma.py as use_croma.py and weights as CR.pt)
