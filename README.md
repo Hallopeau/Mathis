@@ -1,5 +1,5 @@
 # Mathis
-|     NOTEBOOK                                   |     USE                                                             |
+|     Notebook                                   |     Use                                                             |
 |------------------------------------------------|---------------------------------------------------------------------|
 |     cv_timm                                    |     Cross validation with Timm models                               |
 |     cv_croma                                   |     Cross validation with Croma                                     |
